@@ -2,7 +2,7 @@
 
 I am a software engineer and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱 or Backend Web Developer 🤖) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
-[![Linkedin Badge](https://img.shields.io/badge/-fatitboo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatitboo/)](https://www.linkedin.com/in/fatitboo/) [![Facebook Badge](https://img.shields.io/badge/-ninh96592-darkred?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009796787588)](https://www.facebook.com/profile.php?id=100009796787588) [![Gmail Badge](https://img.shields.io/badge/-ngxvanphat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ngxvanphat@gmail.com)](mailto:ngxvanphat@gmail.com) <br/> <br/>
+[![Linkedin Badge](https://img.shields.io/badge/-fatitboo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatitboo/)](https://www.linkedin.com/in/fatitboo/) [![Facebook Badge](https://img.shields.io/badge/-phatNv-darkred?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009796787588)](https://www.facebook.com/profile.php?id=100009796787588) [![Gmail Badge](https://img.shields.io/badge/-ngxvanphat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ngxvanphat@gmail.com)](mailto:ngxvanphat@gmail.com) <br/> <br/>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="360px"/>
 
