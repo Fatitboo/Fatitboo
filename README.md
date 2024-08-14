@@ -10,9 +10,9 @@ I am a software engineer and easily adapt to different hats (Full Stack Web Deve
 
 - 🔭 &nbsp; I’m currently learning on **UIT** Vietnam National <br> University University of Information Technology <br> Ho Chi Minh, Viet Nam
 
-- 📊 &nbsp; View my portfolio 
+- 📊 &nbsp; View my portfolio [phatnguyenvan.21522448host.id.vn](https://phatnguyenvan.21522448host.id.vn/)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Fatitboo?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I'm happy to help
+- 💬 &nbsp; Ask me about anything tech related, I'm happy to help [facebook](https://www.facebook.com/profile.php?id=100009796787588)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/fatitboo/)
 - 📝 &nbsp; Checkout my [resume]
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels.
